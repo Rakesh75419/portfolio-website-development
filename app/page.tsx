@@ -56,7 +56,7 @@ export default function Page() {
         <div className="hero-copy">
           <div className="eyebrow"><span className="status-dot" /> Available for opportunities</div>
           <h1>Building quality<br /><em>into every line.</em></h1>
-          <p className="hero-lede">Hi, I&apos;m <strong>Rakesh Kumar</strong> — a QA Automation Engineer and MERN Stack Developer who turns thoughtful test strategy into dependable digital experiences.</p>
+          <p className="hero-lede">Hi, I&apos;m <strong>Rakesh Kumar</strong> — a QA Automation Engineer who turns thoughtful test strategy into dependable digital experiences.</p>
           <div className="hero-actions"><a className="button button-primary" href="#projects">View my projects <ArrowUpRight size={17} /></a><a className="button button-ghost" href="#contact">Contact me <Mail size={17} /></a></div>
           <div className="hero-meta"><span><strong>2.9</strong> years experience</span><span className="meta-line" /><span>QA automation <span className="muted">/</span> MERN</span></div>
         </div>
